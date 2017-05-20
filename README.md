@@ -1,6 +1,6 @@
 # CusisPlus (dev)
 ## What is CusisPlus
-An standalone software based on CUHK CUSIS to provide more convenient and simple course enrollment experience for students  
+A standalone software based on CUHK CUSIS to provide more convenient and simple course enrollment experience for students  
 ## Set up running environment
 1. Install Python 2.7 (64-bit) from https://www.python.org/  
 2. Install `PyQt4`(PyQwt‑5.2.1‑cp27‑cp27m‑win_amd64.whl) from http://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4  
